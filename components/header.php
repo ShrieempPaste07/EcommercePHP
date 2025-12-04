@@ -9,9 +9,11 @@
         </div>
         <!-- Navigation Links -->
         <div class="flex justify-end items-center gap-4 flex-[1] min-w-0">
-            <a href="/pages/product.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Products</a>
-            <a href="/pages/cart.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Cart</a>
-            <a href="/pages/profile.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Profile</a>
+            <a href="../views/product.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Products</a>
+            <a href="../views/cart.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Cart</a>
+            <a href="../views/contact.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Contact</a>
+            <a href="../views/about.php" class="text-[#8A2BE2] hover:text-[#B266FF]">About</a>
+            <a href="../views/profile.php" class="text-[#8A2BE2] hover:text-[#B266FF]">Profile</a>
         </div>
     </div>
 </nav>
