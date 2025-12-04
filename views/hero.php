@@ -11,6 +11,7 @@
         <img src="../assets/DesktopHeroBanner.png" class="w-full" alt="Hero Banner" />
         <!-- Add more hero content as needed -->
     </div>
+    
     <?php include '../components/footer.php'; ?>
 </body>
 </html>
