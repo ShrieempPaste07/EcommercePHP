@@ -10,6 +10,7 @@ session_start();
 </head>
 <body>
     <?php include '../components/header.php'; ?>
+    <?php include '../components/design.php'; ?>
     <div class="min-h-screen bg-[#F8F7FC] p-6">
         <h1 class="text-3xl font-bold mb-4 text-[#1A1A1A] Header">Edit Profile</h1>
         <form method="post" action="editprofile.php" class="bg-white p-4 rounded shadow">

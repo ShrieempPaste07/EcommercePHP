@@ -1,0 +1,14 @@
+Background color - #F8F7FC
+
+Secondary color - #ECE7FA
+
+Hover color - #D6C4FF
+
+gradient middle hover - #B266FF
+
+gadient end hover - #8A2BE2
+
+Text color - #1a1a1a
+
+HOver text - #555555
+
