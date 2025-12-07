@@ -76,12 +76,21 @@ if (!$user) {
             <p><span class="font-bold">Birthdate:</span> <?= htmlspecialchars($user['birth_date']) ?></p>
         </div>
 
-        <div class="mt-8">
-            <a href="editProfile.php"
-               class="bg-[#8A2BE2] text-white px-6 py-2 rounded hover:bg-[#a86aff]">
-               Edit Profile
-            </a>
-        </div>
+        <div class="mt-4 flex space-x-4">
+    <a href="editProfile.php"
+       class="bg-[#8A2BE2] text-white px-6 py-2 rounded hover:bg-[#a86aff]">
+       Edit Profile
+    </a>
+
+ 
+    <a href="logout.php" 
+       class="px-4 py-2 bg-red-500 text-white rounded-md hover:bg-red-600 transition">
+       Logout
+    </a>
+
+
+</div>
+
     </div>
 
 </div>
